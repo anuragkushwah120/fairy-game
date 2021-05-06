@@ -1,1 +1,1 @@
-# fairy-game
+# CP-2
